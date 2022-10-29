@@ -1,0 +1,37 @@
+*{
+	font-family: "DejaVu Sans Mono";
+}
+
+#videoBUTTON2{
+	min-height: 44px;
+	min-width: 666px;
+}
+
+#videoBUTTON{
+	min-height: 44px;
+	min-width: 66px;
+}
+
+#stRANGE{
+	min-width: 666px;
+}
+
+#informator{
+	background-color: white;
+	word-wrap: break-word;
+}
+
+#rangebutton{
+	min-height: 44px;
+	min-width: 66px;
+}
+
+#videoKANVAS{
+	z-index: -3;
+	border: 5px solid red;
+}
+
+#videoKANVAS2{
+	background-color: black;
+	border: 5px solid red;
+}
